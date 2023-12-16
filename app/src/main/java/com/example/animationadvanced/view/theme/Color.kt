@@ -1,0 +1,16 @@
+package com.example.animationadvanced.view.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Purple80 = Color(0xFFD0BCFF)
+val PurpleGrey80 = Color(0xFFCCC2DC)
+val Pink80 = Color(0xFFEFB8C8)
+
+val Purple40 = Color(0XFF8FCCDC)
+val PurpleGrey40 = Color(0xFF4FB1CA)
+val Pink40 = Color(0xFF4E5A79)
+
+val MetalicBackground = Color(0xE6798181)
+val MetalicGray = Color(0xE6F0EDED)
+val MetalicGrayAlpha50 = Color(0x80BDBBBB)
+val MetalicGrayAlpha10 = Color(0x19BDBBBB)

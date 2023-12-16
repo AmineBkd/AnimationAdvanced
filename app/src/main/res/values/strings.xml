@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnimationAdvanced</string>
+    <string name="welcome_user">Welcome %1$s !</string>
+</resources>
